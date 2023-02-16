@@ -78,7 +78,7 @@ function __theme_gruvbox_dark
     case "soft"
       set bg '32/30/2f'
     case "hard"
-      set bg '0e/10/18'
+      set bg '1d/20/21'
   end
   command printf "\033]11;rgb:$bg\007"
 
