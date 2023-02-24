@@ -1,5 +1,5 @@
 # fish-gruvbox
-[gruvbox] theme for [fish shell]
+My variation on [gruvbox] theme for [fish shell]
 
 # Install
 With [fisherman]
