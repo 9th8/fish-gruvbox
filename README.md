@@ -4,14 +4,9 @@
 # Install
 With [fisherman]
 ```
-fisher install jomik/fish-gruvbox
+fisher install 9th8/fish-gruvbox
+theme_gruvbox dark hard
 ```
-
-This will expose the function called `theme_gruvbox`.
-It is a simple function that takes two arguments.
-The first is the mode, either `light` or `dark`.
-The second is the contrast, `soft`, `medium` or `hard`.
-The defaults are `light` and `medium`.
 
 To automatically apply this theme, call `theme_gruvbox` from your `config.fish`.
 
