@@ -1,6 +1,6 @@
 #!/usr/bin/fish
 function theme_gruvbox --description 'Apply gruvbox theme'
-  set bg '16/19/1a'
+  set bg '28/28/28'
   set fg 'eb/db/b2'
 
   __printf_color 0 $bg
