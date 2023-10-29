@@ -1,7 +1,7 @@
 #!/usr/bin/fish
 function theme_gruvbox --description 'Apply gruvbox theme'
   set bg '40/40/40'
-  set fg 'eb/db/b2'
+  set fg 'e2/cc/a9'
 
   __printf_color 0 $bg
   __printf_color 1 'cc/24/1d'
